@@ -11,11 +11,10 @@ with open('OrkShop.csv', 'w') as file:
     writer = csv.writer(file)
     writer.writerow(('side', 'race', 'title', 'price', 'status', 'url'))
 
-start_url = 'https://goodork.ru/categories/adeptus-astartes-space-marines?page=1'
-base = 'https://goodork.ru/categories/adeptus-astartes-space-marines?page='
-name = 'Adeptus Astartes'
+start_url = 'https://goodork.ru/categories/adeptus-astartes-blood-angels?page=1'
+base = 'https://goodork.ru/categories/adeptus-astartes-blood-angels?page=?page='
+name = 'Blood Angels'
 side1 = 'Imperium'
-
 
 def get_html(url):
     r = requests.get(url)
