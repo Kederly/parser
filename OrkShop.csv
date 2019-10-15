@@ -1,30 +1,113 @@
-Astra,Astra Militarum Cadian Infantry Squad,1 620,В наличии,https://goodork.ru/products/astra-militarum-cadian-infantry-squad
-Astra,Astra Militarum Sentinel,1 670,В наличии,https://goodork.ru/products/astra-militarum-sentinel
-Astra,Astra Militarum Sentinel,1 800,В наличии,https://goodork.ru/products/47-12
-Astra,Astra Militarum Cadian Command Squad,1 800,В наличии,https://goodork.ru/products/47-09
-Astra,"Warhammer 40,000. Кодекс: Астра Милитарум",1 790,В наличии,https://goodork.ru/products/warhammer-40-000-kodeks-astra-militarum
-Astra,Cadian Heavy Weapon Squad,2 160,В наличии,https://goodork.ru/products/cadian-heavy-weapon-squad
-Astra,Astra Militarum Chimera,2 250,В наличии,https://goodork.ru/products/47-07
-Astra,Astra Militarum Leman Russ Battle Tank,2 920,В наличии,https://goodork.ru/products/astra-militarum-leman-russ-battle-tank
-Astra,Easy To Build Astra Militarum Cadians,540,Нет в наличии,https://goodork.ru/products/35-33
-Astra,Datacards: Astra Militarum (english),900,Нет в наличии,https://goodork.ru/products/datacards-astra-militarum
-Astra,Primaris Psyker,1 050,Нет в наличии,https://goodork.ru/products/99060105260
-Astra,Wyrdvane Psykers,1 050,Нет в наличии,https://goodork.ru/products/99060105173
-Astra,Officio Prefectus Commissar,1 350,Нет в наличии,https://goodork.ru/products/47-20
-Astra,Cadian Command Squad,1 400,Нет в наличии,https://goodork.ru/products/cadian-command-squad
-Astra,Astra Militarum Cadian Infantry Squad,1 800,Нет в наличии,https://goodork.ru/products/47-17
-Astra,Ratlings,1 760,Нет в наличии,https://goodork.ru/products/99060105262
-Astra,Militarum Tempestus Scions,2 030,Нет в наличии,https://goodork.ru/products/47-15
-Astra,Astra Militarum Cadian Heavy Weapon Squad,2 250,Нет в наличии,https://goodork.ru/products/47-19
-Astra,Codex: Astra Militarum (hb) (english),2 680,Нет в наличии,https://goodork.ru/products/codex-astra-militarum
-Astra,Astra Militarum Leman Russ Demolisher,2 790,Нет в наличии,https://goodork.ru/products/47-11
-Astra,Militarum Auxilla Bullgryns,2 920,Нет в наличии,https://goodork.ru/products/47-14
-Astra,Astra Militarum Leman Russ Demolisher,2 920,Нет в наличии,https://goodork.ru/products/astra-militarum-leman-russ-demolisher
-Astra,Astra Militarum Hydra,3 150,Нет в наличии,https://goodork.ru/products/47-21
-Astra,Astra Militarum Valkyrie,4 050,Нет в наличии,https://goodork.ru/products/47-10
-Astra,Manticore,3 860,Нет в наличии,https://goodork.ru/products/47-13
-Astra,Basilisk,3 860,Нет в наличии,https://goodork.ru/products/99120105047
-Astra,Start Collecting! Astra Militarum,4 950,Нет в наличии,https://goodork.ru/products/st7
-Astra,Start Collecting! Militarum Tempestus,5 400,Нет в наличии,https://goodork.ru/products/start-collecting-militarum-tempestus
-Astra,Warhammer Quest: Blackstone Fortress (eng),8 550,Нет в наличии,https://goodork.ru/products/blackstone-fortress
-Astra,Astra Militarum Spearhead Detachment,9 000,Нет в наличии,https://goodork.ru/products/astra-militarum-spearhead-detachment
+side,race,title,price,status,url
+Imperium,Adeptus Astartes,Бустер Space Marine Heroes,450,В наличии,https://goodork.ru/products/buster-space-matine-heroes
+Imperium,Adeptus Astartes,Space Marine Attack Bike,1 570,В наличии,https://goodork.ru/products/48-20
+Imperium,Adeptus Astartes,Warhammer 40000: Chapter Approved (eng),2 140,В наличии,https://goodork.ru/products/40-07-60
+Imperium,Adeptus Astartes,Intercessors + Paint Set,1 800,В наличии,https://goodork.ru/products/60-11
+Imperium,Adeptus Astartes,Space Marine Land Speeder,1 800,В наличии,https://goodork.ru/products/48-13
+Imperium,Adeptus Astartes,Codex: White Scars (hb) (english),2 010,В наличии,https://goodork.ru/products/codex-white-scars-hb-englich
+Imperium,Adeptus Astartes,Space Marine Bike Squad,2 030,В наличии,https://goodork.ru/products/48-11
+Imperium,Adeptus Astartes,Space Marine Razorback,2 250,В наличии,https://goodork.ru/products/48-21
+Imperium,Adeptus Astartes,Space Marine Drop Pod,2 250,В наличии,https://goodork.ru/products/48-27
+Imperium,Adeptus Astartes,Space Marine Ironclad Dreadnought,2 700,В наличии,https://goodork.ru/products/48-46
+Imperium,Adeptus Astartes,Marneus Calgar: Ultra Marines Chapter Master,2 920,В наличии,https://goodork.ru/products/99810101013
+Imperium,Adeptus Astartes,Space Marine Veterans,2 900,В наличии,https://goodork.ru/products/99810101068
+Imperium,Adeptus Astartes,Space Marine Vindicator,3 370,В наличии,https://goodork.ru/products/48-25
+Imperium,Adeptus Astartes,Space Marines,540,Нет в наличии,https://goodork.ru/products/35-25
+Imperium,Adeptus Astartes,Getting Started With Warhammer 40k (eng),540,Нет в наличии,https://goodork.ru/products/getting-started-with-warhammer-40k-eng
+Imperium,Adeptus Astartes,Warhammer40k: Tactical Objective Cards (eng),720,Нет в наличии,https://goodork.ru/products/wh40k-tactical-objective-cards-eng
+Imperium,Adeptus Astartes,Ultramarines Upgrades,720,Нет в наличии,https://goodork.ru/products/48-80
+Imperium,Adeptus Astartes,Бустер Space Marine Heroes 2,670,Нет в наличии,https://goodork.ru/products/buster-space-marine-heroes-2
+Imperium,Adeptus Astartes,Citadel Paints: Ultramarines,770,Нет в наличии,https://goodork.ru/products/citadel-paints-ultramarines
+Imperium,Adeptus Astartes,Easy To Build Space Marines Primaris Reivers,900,Нет в наличии,https://goodork.ru/products/easy-to-build-s-marines-primaris-reivers
+Imperium,Adeptus Astartes,Datacards: Space Marines (eng),900,Нет в наличии,https://goodork.ru/products/datacards-space-marine-eng
+Imperium,Adeptus Astartes,Space Marine Ultramarines Primaris Upgrades,900,Нет в наличии,https://goodork.ru/products/ultramarines-primaris-upgrades
+Imperium,Adeptus Astartes,Easy To Build Space Marine Primaris Intercessors,900,Нет в наличии,https://goodork.ru/products/easy-to-build-s-m-primaris-intercessors
+Imperium,Adeptus Astartes,Глиссер Космодесанта(SPACE MARINE SPEEDER STRIKE),895,Нет в наличии,https://goodork.ru/products/glisser-kosmodesanta-space-marine-speeder-strike
+Imperium,Adeptus Astartes,Ultramarine Paint Set,900,Нет в наличии,https://goodork.ru/products/ultramarine-paint-set
+Imperium,Adeptus Astartes,Datacards: Ultramarines (english),970,Нет в наличии,https://goodork.ru/products/datacards-ultramarines-englich
+Imperium,Adeptus Astartes,Datacards: Space Marines (english),970,Нет в наличии,https://goodork.ru/products/datacards-space-marines-englich
+Imperium,Adeptus Astartes,Datacards: White Scars (english),970,Нет в наличии,https://goodork.ru/products/datacards-white-scars-englich
+Imperium,Adeptus Astartes,Datacards: Raven Guard (english),970,Нет в наличии,https://goodork.ru/products/datacards-raven-guard-english
+Imperium,Adeptus Astartes,Datacards: Iron Hands (english),970,Нет в наличии,https://goodork.ru/products/datacards-iron-hands-english
+Imperium,Adeptus Astartes,Terminus Ultra Upgrade Pack,1 050,Нет в наличии,https://goodork.ru/products/terminus-ultra-upgrade-pack
+Imperium,Adeptus Astartes,Space Marine Scouts With Sniper Rifles,1 400,Нет в наличии,https://goodork.ru/products/48-29
+Imperium,Adeptus Astartes,Space Marine Scouts,1 400,Нет в наличии,https://goodork.ru/products/48-16
+Imperium,Adeptus Astartes,White Scar Primaris Upgrades & Transfers,1 450,Нет в наличии,https://goodork.ru/products/white-scar-primaris-upgrades-transfers
+Imperium,Adeptus Astartes,Raven Guard Primaris Upgrades & Transfrs,1 450,Нет в наличии,https://goodork.ru/products/raven-guard-primaris-upgrades-transfrs
+Imperium,Adeptus Astartes,Iron Hands Primaris Upgrades & Transfers,1 450,Нет в наличии,https://goodork.ru/products/iron-hands-primaris-upgrades-transfers
+Imperium,Adeptus Astartes,Imperial Fists Primaris Upgrades & Trnfs,1 450,Нет в наличии,https://goodork.ru/products/imperial-fists-primaris-upgrades-trnfs
+Imperium,Adeptus Astartes,Salamanders Primaris Upgrades & Transfrs,1 450,Нет в наличии,https://goodork.ru/products/salamanders-primaris-upgrades-transfrs
+Imperium,Adeptus Astartes,Space Marine Librarian,1 620,Нет в наличии,https://goodork.ru/products/48-38
+Imperium,Adeptus Astartes,Space Marines Scouts With Sniper Rifles,1 690,Нет в наличии,https://goodork.ru/products/space-marines-scouts-with-sniper-rifles
+Imperium,Adeptus Astartes,Space Marines Scouts,1 690,Нет в наличии,https://goodork.ru/products/space-marines-scouts
+Imperium,Adeptus Astartes,Space Marine Land Speeder Storm,1 800,Нет в наличии,https://goodork.ru/products/48-35
+Imperium,Adeptus Astartes,Easy To Build Space Marine Primaris Aggressors,1 800,Нет в наличии,https://goodork.ru/products/easy-to-build-primaris-aggressors
+Imperium,Adeptus Astartes,Space Marine Command Squad,1 840,Нет в наличии,https://goodork.ru/products/48-17
+Imperium,Adeptus Astartes,"Warhammer 40,000. Кодекс Адептус Астартес: Космический Десант",1 790,Нет в наличии,https://goodork.ru/products/warhammer-40-000-kodeks-adeptus-astartes-kosmicheskii-desant
+Imperium,Adeptus Astartes,Primaris Lieutenant In Phobos Armour,1 930,Нет в наличии,https://goodork.ru/products/primaris-lieutenant-in-phobos-armour
+Imperium,Adeptus Astartes,Space Marines: Ultramarines Dice,1 930,Нет в наличии,https://goodork.ru/products/space-marines-ultramarines-dice
+Imperium,Adeptus Astartes,Space Marines: White Scars Dice,1 930,Нет в наличии,https://goodork.ru/products/space-marines-white-scars-dice
+Imperium,Adeptus Astartes,Primaris Captain In Phobos Armour,1 930,Нет в наличии,https://goodork.ru/products/primaris-librarian-in-phobos-armour
+Imperium,Adeptus Astartes,Space Marines Primaris Lieutenant With Power Sword,1 930,Нет в наличии,https://goodork.ru/products/primaris-lieutenant-with-power-sword
+Imperium,Adeptus Astartes,Primaris Librarian In Phobos Armour,1 930,Нет в наличии,https://goodork.ru/products/primaris-librarian-in-phobos-armour-1
+Imperium,Adeptus Astartes,Codex: Ultramarines (hb) (english),2 010,Нет в наличии,https://goodork.ru/products/codex-ultramarines-hb-englich
+Imperium,Adeptus Astartes,Codex: Imperial Fists (english),2 010,Нет в наличии,https://goodork.ru/products/codex-imperial-fists-english
+Imperium,Adeptus Astartes,Codex: Salamanders (english),2 010,Нет в наличии,https://goodork.ru/products/codex-salamanders-english
+Imperium,Adeptus Astartes,Codex: Raven Guard (hb) (english),2 010,Нет в наличии,https://goodork.ru/products/codex-raven-guard-hb-english
+Imperium,Adeptus Astartes,Codex: Iron Hands (hb) (english),2 010,Нет в наличии,https://goodork.ru/products/codex-iron-hands-hb-english
+Imperium,Adeptus Astartes,Space Marine Rhino,2 030,Нет в наличии,https://goodork.ru/products/48-12
+Imperium,Adeptus Astartes,Space Marines Primaris Chaplain,2 030,Нет в наличии,https://goodork.ru/products/primaris-chaplain
+Imperium,Adeptus Astartes,Space Marines Primaris Apothecary,2 030,Нет в наличии,https://goodork.ru/products/primaris-apothecary
+Imperium,Adeptus Astartes,Space Marines Primaris Captain,2 030,Нет в наличии,https://goodork.ru/products/space-marines-primaris-captain
+Imperium,Adeptus Astartes,Space Marines Primaris Captain,2 030,Нет в наличии,https://goodork.ru/products/space-marines-primaris-captain
+Imperium,Adeptus Astartes,Warhammer 40000: First Strike (english),2 250,Нет в наличии,https://goodork.ru/products/warhammer-40000-first-strike-english
+Imperium,Adeptus Astartes,Easy To Build Primaris Redemptor Dreadnought,2 250,Нет в наличии,https://goodork.ru/products/easy-to-build-primaris-redemptor-dreadnought
+Imperium,Adeptus Astartes,Space Marine Vanguard Veteran Squad,2 250,Нет в наличии,https://goodork.ru/products/48-18
+Imperium,Adeptus Astartes,Salamanders Adrax Agatone,2 410,Нет в наличии,https://goodork.ru/products/salamanders-adrax-agatone
+Imperium,Adeptus Astartes,Imperial Fists Tor Garadon,2 410,Нет в наличии,https://goodork.ru/products/imperial-fists-tor-garadon
+Imperium,Adeptus Astartes,Iron Hands Feirros,2 410,Нет в наличии,https://goodork.ru/products/iron-hands-feirros
+Imperium,Adeptus Astartes,Raven Guard Kayvaan Shrike,2 410,Нет в наличии,https://goodork.ru/products/raven-guard-kayvaan-shrike
+Imperium,Adeptus Astartes,Ultramarines Chief Librarian Tigurius,2 410,Нет в наличии,https://goodork.ru/products/ultramarines-chief-librarian-tigurius
+Imperium,Adeptus Astartes,White Scars Kor'sarro Khan,2 410,Нет в наличии,https://goodork.ru/products/white-scars-kor-sarro-khan
+Imperium,Adeptus Astartes,Space Marine Assault Squad,2 480,Нет в наличии,https://goodork.ru/products/48-09
+Imperium,Adeptus Astartes,Space Marine Tactical Squad,2 480,Нет в наличии,https://goodork.ru/products/48-07-1
+Imperium,Adeptus Astartes,Space Marine Terminator Close Combat Squad,2 520,Нет в наличии,https://goodork.ru/products/48-34
+Imperium,Adeptus Astartes,Space Marine Dreadnought,2 520,Нет в наличии,https://goodork.ru/products/48-26
+Imperium,Adeptus Astartes,CYPHER,2 460,Нет в наличии,https://goodork.ru/products/cypher
+Imperium,Adeptus Astartes,Space Marines Razorback,2 650,Нет в наличии,https://goodork.ru/products/space-marines-razorback
+Imperium,Adeptus Astartes,Space Marines Primaris Inceptors,2 700,Нет в наличии,https://goodork.ru/products/primaris-inceptors
+Imperium,Adeptus Astartes,Space Marine Sternguard Veteran Squad,2 700,Нет в наличии,https://goodork.ru/products/warhammer-40000-miniatures-space-marine-sternguard-veteran-squad
+Imperium,Adeptus Astartes,Space Marines Primaris  Aggressors,2 700,Нет в наличии,https://goodork.ru/products/space-marines-primaris-agressors
+Imperium,Adeptus Astartes,Mark Iii Space Marines,2 700,Нет в наличии,https://goodork.ru/products/mark-iii-space-marines
+Imperium,Adeptus Astartes,Space Marine Terminator Squad,2 700,Нет в наличии,https://goodork.ru/products/48-10
+Imperium,Adeptus Astartes,Space Marine Devastator Squad,2 700,Нет в наличии,https://goodork.ru/products/48-15
+Imperium,Adeptus Astartes,Codex: Space Marines (hb) (english),2 870,Нет в наличии,https://goodork.ru/products/codex-space-marines-hb-english
+Imperium,Adeptus Astartes,Space Marines Primaris Eliminators,2 890,Нет в наличии,https://goodork.ru/products/space-marines-primaris-eliminators
+Imperium,Adeptus Astartes,Space Marine Venerable Dreadnought,2 920,Нет в наличии,https://goodork.ru/products/48-32
+Imperium,Adeptus Astartes,Space Marine Company Command,2 920,Нет в наличии,https://goodork.ru/products/48-51
+Imperium,Adeptus Astartes,Space Marine Stormhawk Interceptor,3 150,Нет в наличии,https://goodork.ru/products/48-42
+Imperium,Adeptus Astartes,Space Marines Primaris Intercessors,3 150,Нет в наличии,https://goodork.ru/products/primaris-intercessors
+Imperium,Adeptus Astartes,Space Marines Primaris Hellblasters,3 150,Нет в наличии,https://goodork.ru/products/primaris-hellblasters
+Imperium,Adeptus Astartes,Space Marines Primaris Reivers,3 150,Нет в наличии,https://goodork.ru/products/space-marine-primaris-reivers
+Imperium,Adeptus Astartes,Space Marine Predator,3 150,Нет в наличии,https://goodork.ru/products/48-23
+Imperium,Adeptus Astartes,Space Marines Roboute Guilliman,3 370,Нет в наличии,https://goodork.ru/products/space-marines-roboute-guilliman
+Imperium,Adeptus Astartes,Space Marines Primaris Infiltrators,3 370,Нет в наличии,https://goodork.ru/products/space-marines-primaris-infiltrators
+Imperium,Adeptus Astartes,Space Marine Techmarine With Servitors,3 160,Нет в наличии,https://goodork.ru/products/48-41
+Imperium,Adeptus Astartes,Space Marine Primaris Redemptor Dreadnought,3 600,Нет в наличии,https://goodork.ru/products/space-marine-primaris-redemptor-drednoight
+Imperium,Adeptus Astartes,Space Marines Primaris Invictor Tactical Warsuit,3 620,Нет в наличии,https://goodork.ru/products/primaris-invictor-tactical-warsuit
+Imperium,Adeptus Astartes,Space Marines Predator,3 620,Нет в наличии,https://goodork.ru/products/space-marines-predator
+Imperium,Adeptus Astartes,Space Marine Land Raider Crusader/Redeemer,4 050,Нет в наличии,https://goodork.ru/products/48-30
+Imperium,Adeptus Astartes,Space Marine Centurion Devastator Squad,4 280,Нет в наличии,https://goodork.ru/products/48-24
+Imperium,Adeptus Astartes,Space Marines Primaris Impulsor,4 340,Нет в наличии,https://goodork.ru/products/space-marines-primaris-impulsor
+Imperium,Adeptus Astartes,Whirlwind,4 050,Нет в наличии,https://goodork.ru/products/gw_356
+Imperium,Adeptus Astartes,Warhammer 40000: Know No Fear (english),4 500,Нет в наличии,https://goodork.ru/products/warhammer-40000-know-no-fear
+Imperium,Adeptus Astartes,Warhammer 40000: Know No Fear (russian),4 500,Нет в наличии,https://goodork.ru/products/warhammer-40000-know-no-fear-na-russkom
+Imperium,Adeptus Astartes,Space Marines Primaris Repulsor,4 500,Нет в наличии,https://goodork.ru/products/primaris-repulsor
+Imperium,Adeptus Astartes,Space Marine Stalker,4 560,Нет в наличии,https://goodork.ru/products/48-31
+Imperium,Adeptus Astartes,Stormraven Gunship,4 950,Нет в наличии,https://goodork.ru/products/41-10
+Imperium,Adeptus Astartes,Start Collecting! Space Marines,4 950,Нет в наличии,https://goodork.ru/products/st12
+Imperium,Adeptus Astartes,Дисплей Space Marine Heroes,5 400,Нет в наличии,https://goodork.ru/products/displei-space-matine-heroes
+Imperium,Adeptus Astartes,Warhammer 40000: Dark Imperium (english),8 550,Нет в наличии,https://goodork.ru/products/warhammer-40000-dark-imperium-english
+Imperium,Adeptus Astartes,Дисплей Space Marine Heroes 2,8 040,Нет в наличии,https://goodork.ru/products/displei-space-marine-heroes-2
+Imperium,Adeptus Astartes,Space Marines Battalion Detachment,9 000,Нет в наличии,https://goodork.ru/products/space-marines-battalion-detachment
+Imperium,Adeptus Astartes,Warhammer 40000: Shadowspear (english),9 450,Нет в наличии,https://goodork.ru/products/warhammer-40000-shadowspear-english

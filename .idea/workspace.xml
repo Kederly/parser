@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87ee648d-09e2-4610-9ae5-065564b3eec1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.~lock.OrkShop.csv#" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OrkShop.csv" beforeDir="false" afterPath="$PROJECT_DIR$/OrkShop.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/OrkShop.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrkShop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hello.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,8 +91,16 @@
       <updated>1571043267640</updated>
       <workItem from="1571043269466" duration="21433000" />
       <workItem from="1571067405217" duration="6007000" />
-      <workItem from="1571144141200" duration="859000" />
+      <workItem from="1571144141200" duration="4457000" />
     </task>
+    <task id="LOCAL-00001" summary="Поправил цену">
+      <created>1571145112929</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571145112929</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,8 +117,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Поправил цену" />
+    <option name="LAST_COMMIT_MESSAGE" value="Поправил цену" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/parser$GW_adepta_sororitas.coverage" NAME="GW adepta sororitas Coverage Results" MODIFIED="1571145018381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/parser$GW_adepta_sororitas.coverage" NAME="GW adepta sororitas Coverage Results" MODIFIED="1571148767010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/parserGW$GW_adepta_sororitas.coverage" NAME="GW adepta sororitas Coverage Results" MODIFIED="1571074607829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

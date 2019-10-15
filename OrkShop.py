@@ -5,9 +5,15 @@ import os
 
 os.remove('OrkShop.csv')
 
-start_url = 'https://goodork.ru/categories/astra-militarum?page=1'
-base = 'https://goodork.ru/categories/astra-militarum?page='
-name = 'Astra'
+with open('OrkShop.csv', 'w') as file:
+    writer = csv.writer(file)
+    writer.writerow(('side', 'race', 'title', 'price', 'status', 'url'))
+
+start_url = 'https://goodork.ru/categories/adeptus-astartes-space-marines?page=1'
+base = 'https://goodork.ru/categories/adeptus-astartes-space-marines?page='
+name = 'Adeptus Astartes'
+side1 = 'Imperium'
+
 
 def get_html(url):
     r = requests.get(url)
@@ -28,7 +34,8 @@ def get_total_pages(html):
 def write_csv(data):
     with open('OrkShop.csv', 'a') as f:
         writer = csv.writer(f)
-        writer.writerow((data['race'],
+        writer.writerow((data['side'],
+                         data['race'],
                          data['title'],
                          data['price'],
                          data['status'],
@@ -40,7 +47,7 @@ def get_page_data(html):
     ads = soup.find('div', class_='row products-view products-view-tile productview-wow').find_all('div', class_='products-view-block')
 
     for ad in ads:
-    #name, price, status, url
+
         try:
             title = ad.find('div', class_='products-view-name products-view-name-default').find('a').get('title')
         except:
@@ -62,7 +69,9 @@ def get_page_data(html):
         except:
             url = ''
         race = name
-        data = {'race': race,
+        side = side1
+        data = {'side': side,
+            'race': race,
             'title': title,
             'price': price,
             'status': status,
