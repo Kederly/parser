@@ -46,7 +46,7 @@ def get_page_data(html):
         except:
             title = ''
         try:
-            price = ad.find('div', class_='price-new cs-t-1').find('div', class_='price-number').text.strip()
+            price = ad.find('div', class_='price').find('div', class_='price-number').text.strip()
         except:
             price = ''
         try:
